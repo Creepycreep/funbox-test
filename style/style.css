@@ -262,4 +262,8 @@ body {
   .cat-card__text {
     font-size: 12px;
   }
+
+  .cat-card__caption {
+    font-size: 10px;
+  }
 }
